@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/UfY1uem.png" alt="My Image">
+  <img src="https://i.imgur.com/BcJN2fd.png" alt="My Image">
 </p>
 
 Baguette Peek : A site tracking the performance of French players on the global Counter-Strike scene.

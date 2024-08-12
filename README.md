@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.imgur.com/BcJN2fd.png" alt="My Image">
 </p>
+<h3 align="center">Baguette Peek : Tracking news and performance of French players on the global Counter-Strike scene.</h3>
 
-Baguette Peek : Tracking news and performance of French players on the global Counter-Strike scene.
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

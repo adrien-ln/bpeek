@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/UfY1uem.png" alt="My Image">
+</p>
+
+Baguette Peek : A site tracking the performance of French players on the global Counter-Strike scene.
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

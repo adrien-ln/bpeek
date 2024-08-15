@@ -1,11 +1,14 @@
 <template>
-    <UTable :rows="people">
-        <template #expand="{ row }">
-            <div class="p-4">
-                <pre>{{ row }}</pre>
-            </div>
-        </template>
-    </UTable>
+    <div class="container">
+        <h1>Prochains Matchs</h1>
+        <UTable :rows="people">
+            <template #expand="{ row }">
+                <div class="p-4">
+                    <pre>{{ row }}</pre>
+                </div>
+            </template>
+        </UTable>
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -47,4 +50,17 @@
         role: 'Member'
     }]
 </script>
+
+<style scoped>
+    .container {
+        margin-bottom: 3rem;
+    }
+
+    h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+
+</style>
 

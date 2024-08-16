@@ -12,7 +12,12 @@
   "dependencies": {
     "@nuxt/ui": "^2.18.4",
     "@supabase/supabase-js": "^2.45.1",
+    "axios": "^1.7.4",
+    "cheerio": "^1.0.0",
+    "hltv": "^3.5.0",
+    "node-fetch": "^3.3.2",
     "nuxt": "^3.12.4",
+    "puppeteer": "^23.1.0",
     "vue": "latest"
   }
 }

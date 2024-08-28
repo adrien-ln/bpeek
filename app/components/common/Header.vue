@@ -2,7 +2,7 @@
 <template>
     <header>
         <NuxtLink to="/">
-            <img src="/public/favicon.ico" alt="Logo" />
+            <img src="favicon.ico" alt="Logo" />
         </NuxtLink>
         <nav>
             <ul>
@@ -20,6 +20,9 @@
                 </li>
                 <li>
                     <NuxtLink to="/players">Joueurs</NuxtLink>
+                </li>
+                <li>
+                    <NuxtLink to="/ranking">Classement</NuxtLink>
                 </li>
                 <li>
                     <NuxtLink to="/about">À propos</NuxtLink>

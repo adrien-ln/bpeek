@@ -8,6 +8,8 @@ export default defineNuxtConfig({
     modules: [
         '@nuxt/ui',
         '@nuxt/icon',
+        '@nuxt/image',
+        '@nuxt/fonts',
         '@nuxtjs/color-mode',
         '@nuxtjs/tailwindcss',
     ],

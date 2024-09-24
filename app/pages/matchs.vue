@@ -1,5 +1,13 @@
 <template>
     <section>
-        <h2>Matchs à venir</h2>
+        <match-card></match-card>
     </section>
 </template>
+
+<script setup>
+// ToDo
+</script>
+
+<style scoped>
+/* ToDo */
+</style>

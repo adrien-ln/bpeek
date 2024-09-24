@@ -11,6 +11,6 @@
 
 <style scoped>
     section {
-        padding: 2rem;
+        padding: 1rem;
     }
 </style>

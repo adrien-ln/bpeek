@@ -2,10 +2,13 @@
 <template>
     <header>
         <NuxtLink to="/">
-            <img src="favicon.ico" alt="Logo" />
+            <!-- <img src="favicon.ico" alt="Logo" /> -->
         </NuxtLink>
         <nav>
             <ul>
+                <li>
+                    <NuxtLink to="/">Acceuil</NuxtLink>
+                </li>
                 <li>
                     <NuxtLink to="/matchs">Matchs</NuxtLink>
                 </li>
